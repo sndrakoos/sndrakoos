@@ -1,3 +1,4 @@
+(img align="right" alt="Coding" width="400" src=" https://cdn.discordapp.com/attachments/1092146308468453468/1092185275758821438/Glitch_Video_Background__4K_FREE_NO_COPYRIGHT_.mp4")
 <h1 align="center">Hi 👋, I'm Ákos</h1>
 <h3 align="center">A Logistic clerk student in Hungary.</h3>
 
