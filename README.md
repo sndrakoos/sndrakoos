@@ -1,4 +1,3 @@
-[![MasterHead](https://tinyurl.com/gthubbg)]
 <h1 align="center">Hi 👋, I'm Ákos</h1>
 <h3 align="center">A Logistic clerk student in Hungary.</h3>
 
