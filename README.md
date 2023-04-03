@@ -3,14 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sndrakoos&label=Profile%20views&color=0e75b6&style=flat" alt="sndrakoos" /> </p>
 
-- 👨‍💻 All of my "about me" [sndrakoos.hu](sndrakoos.hu)
+- 👨‍💻 All of my "about me" [https://sndrakoos.hu](https://sndrakoos.hu)
 
 - 📫 How to reach me **sndrakoos@gmail.com**
 
-- ⚡ Fun fact **You can buy me some coffe :)**
+- ⚡ Fun fact **- You can buy me some coffe :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/sndrakoos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sndrakoos" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/YudtESUGVQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YudtESUGVQ" height="30" width="40" /></a>
 </p>
 
